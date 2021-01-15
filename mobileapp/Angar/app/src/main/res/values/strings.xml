@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WB</string>
+    <string name="string_get_started">Get Started</string>
+    <string name="string_tagline">Your Home Assistant</string>
+    <string name="string_bluetooth_name_hint">Enter bluetooth name</string>
+    <string name="string_bluetooth_setup">Connect To Bluetooth</string>
+    <string name="string_show_password">SHOW</string>
+    <string name="string_hide_password">HIDE</string>
+    <string name="string_terms">I accept <u><b>Terms &amp; Conditions</b></u></string>
+    <string name="string_forgot_password"><b><u>Forgot password?</u></b></string>
+    <string name="string_bluetooth_disconnected">Not Connected</string>
+    <string name="string_bluetooth_connected">Connected</string>
+</resources>
