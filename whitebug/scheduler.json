@@ -1,0 +1,5 @@
+[
+{ "switch" : "D02", "ontime" : "1800" , "offtime" : "0600" },
+{ "switch" : "D03", "ontime" : "1800" , "offtime" : "0600" },
+{ "switch" : "D04", "ontime" : "1800" , "offtime" : "0600" }
+]
